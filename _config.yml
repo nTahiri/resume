@@ -1,10 +1,10 @@
 # Site
-repository: nTahiri
+repository: nTahiri/resume
 favicon: images/favicon.ico
 
 # Personal info
 name: Nabil Tahri, B. Eng
-title: FullStack & Cloud Developer
+title: Full Stack & Cloud Developer
 email: nabil.tahri@polymtl.ca
 website: https://github.com/nTahiri
 
@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   Interest in distributed architectural systems, Mobil development, and cloud computing
   +1 (514) 662-2762
 
-  I am most skilled in: <mark>GoLang</mark>, <mark>Kibernetes - Openshift</mark> and <mark>Jenkins - Tekton - circleci</mark>
+  I am most skilled in: <mark>GoLang - Java Springboot</mark>, <mark>Kibernetes - Openshift</mark> and <mark>Jenkins - Tekton - circleci</mark>
 
 # Projects Section
 # projects_title: Projects
