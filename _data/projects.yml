@@ -4,7 +4,7 @@
   quote: >
     Swift, NodeJS, MongoDB, Docker, IBM Cloud (BlueMix)
   description: | # this will include new lines to allow paragraphs
-    Implemente a microservice with NodeJS to interacte with MongoDB
+    Implement a microservice with NodeJS to interacte with MongoDB
 
     Create MongoDB and NodeJS docker containers on the IBM Cloud (BlueMix)
 
@@ -26,7 +26,7 @@
   quote: >
     C#.net, HTML, BootStrap, SQLServer, FTS
   description: | # this will include new lines to allow paragraphs
-    Part of developer team to implemente TOPNOTCH APP http://topnotch5.com
+    Participante in worldwide developer team TOPNOTCH APP http://topnotch5.com
 - layout: left
   name: iOS Application BussCard
   dates: 2015

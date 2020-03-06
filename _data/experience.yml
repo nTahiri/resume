@@ -19,7 +19,7 @@
   description: | # this will include new lines to allow paragraphs
     Establish good DevOps work practices and culture with all developers (front and back end) of the digital studio, automatizing of CI/CD mircoservices in production
 
-    Insure continued support for the digital studio
+    Ensure continued support for the digital studio
 
     Interaction with all teams involved (infra, security, ops and dev) to activate and unblock software requirements specifications
 
@@ -37,7 +37,7 @@
 
     Support and educate developer teams on Agile methodologie.
 - layout: left
-  company: Civil Protection (fier-fighter) Morocco
+  company: Civil Protection (fire-fighter) Morocco
   job_title: Lieutenant in Civil Protection
   dates: December 2006
   description: | # this will include new lines to allow paragraphs
