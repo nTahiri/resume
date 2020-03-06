@@ -1,5 +1,5 @@
 - layout: left
-  company: National Bank of Canada- Banking as Service Team
+  company: National Bank of Canada - Banking as Service Team
   job_title: Senior Adviser - Full Stack Golang Developer & Kubernetes (EKS)
   dates: Present
   description: | # this will include new lines to allow paragraphs
@@ -10,6 +10,41 @@
     Integrate Tekton pipelines in the SDLC of the project via IAC with Terraform
 
     Participate in the launching of distributed architecture of mircroservices and GitOps
-    
+
     Insure that the security parameters of the bank service is respected
+- layout: left
+  company: National Bank of Canada - Digital Studio
+  job_title: Senior Adviser - DevOps Engineer in the Digital Studio- SME Jenkins and OpenShift
+  dates: June 2018
+  description: | # this will include new lines to allow paragraphs
+    Establish good DevOps work practices and culture with all developers (front and back end) of the digital studio, automatizing of CI/CD mircoservices in production
+
+    Insure continued support for the digital studio
+
+    Interaction with all teams involved (infra, security, ops and dev) to activate and unblock software requirements specifications
+
+    Innovate to facilitate the development of software processes
+- layout: left
+  company: National Bank of Canada - DevOps Squad
+  job_title: Senior Adviser - DevOps Engineer in DevOps Squad-SME Jenkins and Openshift
+  dates: February 2017
+  description: | # this will include new lines to allow paragraphs
+    Implemented a shared library to atomize components CI/CD such as(  SBIP2, SBIE, SOA, WEALTH, PaymentHub, PayPro, IAMX, CCAIFORMS,EMORTGAGES)
+
+    Provide support for all the tools DevOps uses at the bank ( Jenkins, Nexus, SonarQube, IQserver, Openshift, AppDynamics, EFK)
+
+    Produce and maintain SpringBoot and NodeJS docker images for deploied microservices with shell scripting tools and AppDynamics agents
+
+    Support and educate developer teams on Agile methodologie.
+- layout: left
+  company: Civil Protection (fier-fighter) Morocco
+  job_title: Lieutenant in Civil Protection
+  dates: December 2006
+  description: | # this will include new lines to allow paragraphs
+    In charge of security operations for the city of Tangier Morocco
+
+    Manager of Fire Station in Tangier
+
+    Continuous training of different Fire Fighters Team
+
 
