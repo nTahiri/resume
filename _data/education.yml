@@ -5,10 +5,7 @@
   quote: >
     dfddfddf
   description: | # this will include new lines to allow paragraphs
-    Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a
-    Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management,
-    Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance,
-    Logging / Monitoring, Storage, and Troubleshooting
+    Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
 #- layout: left
 #  name: Polytechnique Montreal
 #  dates: 2012 - 2016
