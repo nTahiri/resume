@@ -2,7 +2,7 @@
   name: Certified Kubernetes Administrator
   dates: 2020 - 2023
   qualification: https://tinyurl.com/cka-nabil
-  quote: ""
+  quote: >
   description: | # this will include new lines to allow paragraphs
     Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
 - layout: left
@@ -17,13 +17,13 @@
   name: Firefighter College - Morocco
   dates: 2006
   qualification: Firefighter officer
-  quote: ""
+  quote: >
   description: | # this will include new lines to allow paragraphs
     Responsible of managing intervention team of city of Tanger
 - layout: left
   name: My Ismail Meknees University - Morocco
   dates: 1998 - 2003
   qualification: Bachlor of Econimical Sciences - Managment and Audit
-  quote: ""
+  quote: >
   description: | # this will include new lines to allow paragraphs
     Responsible of managing intervention team of city of Tanger
