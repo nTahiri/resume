@@ -33,11 +33,11 @@
   quote: >
     Objective-C
   description: | # this will include new lines to allow paragraphs
-    iOS application hepls users to take bussines cards picture and translate it to the phone contacts
+    iOS application helps users to take bussines cards picture and translate it to the phone contacts
 
-    Converte image to text using tesseract-ocr library
+    Convert picture to text using tesseract-ocr library
 
-    Uses regex to differenciate the diffente information taken from the bussines card
+    Uses regex to differenciate the different information taken from the bussines card
 
     Was avalaible in AppStore: https://itunes.apple.com/ca/app/id1035422110
 - layout: left
@@ -46,8 +46,8 @@
   quote: >
     Objective-C SpriteKit
   description: | # this will include new lines to allow paragraphs
-    Implement the game plan editor with Objective-C and SpriteKit
+    Implement game plan editor with Objective-C and SpriteKit
 
-    Synchronize the edited plan with server to be avalaible for players
+    Synchronize the edited plan to server to be avalaible for players
 
     Game backend developed with C++ and C# using PInvoke
