@@ -1,6 +1,64 @@
 - layout: left
-  name: Super awesome project
+  name: Hackaton - AquaHack
+  dates: 2016
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Swift, NodeJS, MongoDB, Docker, IBM Cloud (BlueMix)
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Implemente a microservice with NodeJS to interacte with MongoDB
+
+    Create MongoDB and NodeJS docker containers on the IBM Cloud (BlueMix)
+
+    Develop a Mobile iOS application with Swift to interacte with the REST API
+- layout: left
+  name: Web Application
+  dates: 2016
+  quote: >
+    NodeJS, Jade, MongoDB, AngularJS
+  description: | # this will include new lines to allow paragraphs
+    Implement Web Application based on the « Lone Wolf » book. Ref: http://www.scribd.com/doc/127964396/Loup-Solitaire-03-Les-Grottes-de-Kalte
+
+    Develop the backend RESTFULL API to interacte with MongoDB
+
+    Develop the frontend with Jade and AngularJS
+- layout: left
+  name: Web Application - TOPNOTCH
+  dates: 2016
+  quote: >
+    C#.net, HTML, BootStrap, SQLServer, FTS
+  description: | # this will include new lines to allow paragraphs
+    Part of developer team to implemente TOPNOTCH APP http://topnotch5.com
+- layout: left
+  name: iOS Application BussCard
+  dates: 2015
+  quote: >
+    Objective-C
+  description: | # this will include new lines to allow paragraphs
+    iOS application hepls users to take bussines cards picture and translate it to the phone contacts
+
+    Converte image to text using tesseract-ocr library
+
+    Uses regex to differenciate the diffente information taken from the bussines card
+
+    Was avalaible in AppStore: https://itunes.apple.com/ca/app/id1035422110
+- layout: left
+  name: Video Game plan editor on iPad
+  dates: 2014
+  quote: >
+    Objective-C SpriteKit
+  description: | # this will include new lines to allow paragraphs
+    Implement the game plan editor with Objective-C and SpriteKit
+
+    Synchronize the edited plan with server to be avalaible for players
+
+    Game backend developed with C++ and C# using PInvoke
+- layout: left
+  name: Video Game plan editor on iPad
+  dates: 2014
+  quote: >
+    Objective-C SpriteKit
+  description: | # this will include new lines to allow paragraphs
+    Implement the game plan editor with Objective-C and SpriteKit
+
+    Synchronize the edited plan with server to be avalaible for players
+
+    Game backend developed with C++ and C# using PInvoke and Java using JNI
