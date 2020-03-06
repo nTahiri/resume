@@ -24,7 +24,8 @@ linkedin_username: ntahri
 # about_title: About Me
 about_profile_image: images/IMG_0188.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Bachelor of Engineering
+  Bachelor of Engineering and Certified Kubernetes Administrator
+
   Full Stack Developer with DevOps Engineering experience
   Team player, with passions in new technology and emerging technology industry practices
   Interest in distributed architectural systems, Mobil development, and cloud computing
