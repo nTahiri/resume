@@ -3,9 +3,9 @@ repository: nTahiri/resume
 favicon: images/favicon.ico
 
 # Personal info
-name: Nabil Tahri
+name: Nabil Tahri, B. Eng
 title: FullStack & Cloud Developer
-email: nabil.tahr@bnc.ca / nabil.tahri@polymtl.ca
+email: nabil.tahri@polymtl.ca
 website: https://github.com/nTahiri
 
 # Social links
@@ -24,9 +24,13 @@ linkedin_username: ntahri
 # about_title: About Me
 about_profile_image: images/IMG_0188.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Bachelor of Engineering
+  Full Stack Developer with DevOps Engineering experience
+  Team player, with passions in new technology and emerging technology industry practices
+  Interest in distributed architectural systems, Mobil development, and cloud computing
+  +1 (514) 662-2762
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>GoLang</mark>, <mark>Kibernetes - Openshift</mark> and <mark>Jenkins - Tekton - circleci</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -50,7 +54,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: nTahiri/resume
 
 sass:
   sass_dir: _sass

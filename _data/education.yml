@@ -1,10 +1,29 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: Certified Kubernetes Administrator
+  dates: 2020 - 2023
+  qualification: https://tinyurl.com/cka-nabil
+  quote: ""
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
+- layout: left
+  name: Polytechnique Montreal
+  dates: 2012 - 2016
+  qualification: B. Eng Software Engineering - Security Mobility concentration
+  quote: >
+    Established in 1873, Polytechnique Montreal is the first francophone engineering school in North America.
+  description: | # this will include new lines to allow paragraphs
+    During my time at Polytechnique I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
+- layout: left
+  name: Firefighter College - Morocco
+  dates: 2006
+  qualification: Firefighter officer
+  quote: ""
+  description: | # this will include new lines to allow paragraphs
+    Responsible of managing intervention team of city of Tanger
+- layout: left
+  name: My Ismail Meknees University - Morocco
+  dates: 1998 - 2003
+  qualification: Bachlor of Econimical Sciences - Managment and Audit
+  quote: ""
+  description: | # this will include new lines to allow paragraphs
+    Responsible of managing intervention team of city of Tanger
