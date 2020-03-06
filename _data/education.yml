@@ -6,25 +6,3 @@
     dfddfddf
   description: | # this will include new lines to allow paragraphs
     Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
-#- layout: left
-#  name: Polytechnique Montreal
-#  dates: 2012 - 2016
-#  qualification: B. Eng Software Engineering - Security Mobility concentration
-#  quote: >
-#    Established in 1873, Polytechnique Montreal is the first francophone engineering school in North America.
-#  description: | # this will include new lines to allow paragraphs
-#    During my time at Polytechnique I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
-#- layout: left
-#  name: Firefighter College - Morocco
-#  dates: 2006
-#  qualification: Firefighter officer
-#  quote: >
-#  description: | # this will include new lines to allow paragraphs
-#    Responsible of managing intervention team of city of Tanger
-#- layout: left
-#  name: My Ismail Meknees University - Morocco
-#  dates: 1998 - 2003
-#  qualification: Bachlor of Econimical Sciences - Managment and Audit
-#  quote: >
-#  description: | # this will include new lines to allow paragraphs
-#    Responsible of managing intervention team of city of Tanger
