@@ -4,8 +4,12 @@
   dates: Present
   description: | # this will include new lines to allow paragraphs
     Micro services Developer in Golang
+
     Develop and maintain the pipelines for the building of infrastructures as well as deployment in AWS-EKS
+
     Integrate Tekton pipelines in the SDLC of the project via IAC with Terraform
+
     Participate in the launching of distributed architecture of mircroservices and GitOps
+    
     Insure that the security parameters of the bank service is respected
 
