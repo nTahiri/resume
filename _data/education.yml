@@ -1,7 +1,7 @@
 - layout: left
   name: Certified Kubernetes Administrator
   dates: 2020 - 2023
-  qualification: https://tinyurl.com/cka-nabil
+  qualification: [CKA](https://tinyurl.com/cka-nabil)
   quote: >
   description: | # this will include new lines to allow paragraphs
     Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
