@@ -44,9 +44,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Further projects
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - VolleyBall
-   - CrossFit
+  Other realized projects in video:
+   - [iOS App aAmine](https://www.youtube.com/watch?v=Aiv1Hg2kkNs)
+   - [iOS App Halte](https://www.youtube.com/watch?v=xrmRU-9aLKs)
+   - [Content Trust with Notary and IBM Portieris](https://www.youtube.com/watch?v=fqCo0zZYLVo)
+   - [Tekton pipeline and Triggers with ability to change github check suites](https://www.youtube.com/watch?v=VH6ywgt77MA)
 
 # Footer
 footer_show_references: true
