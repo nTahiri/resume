@@ -1,4 +1,14 @@
 - layout: left
+  company: National Bank of Canada - Cloud Security Team
+  job_title: Senior Cloud Security Adviser
+  dates: Present
+  description: | # this will include new lines to allow paragraphs
+    Design and Implemente Continuous Compliance assessment for AWS resources at the Organisation level using IaC
+
+    Establish a Bank level Security Standard for AWS-EKS
+
+    Advise delievery teams to follow Security good practices in AWS 
+- layout: left
   company: National Bank of Canada - Banking as Service Team
   job_title: Senior Adviser - Full Stack Golang Developer & Kubernetes (EKS)
   dates: Present
