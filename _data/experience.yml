@@ -1,7 +1,18 @@
 - layout: left
+  company: Unity software - DevOps Infrastructre Developer
+  job_title: Senio Sowftware Developer
+  dates: Present
+  description: | # this will include new lines to allow paragraphs
+    Design and develop modern IaC
+
+    Maintain already existing  Infrastructre in GCP and AWS
+
+    Participate on different initialives related to exchange projects in GOLANG
+    
+- layout: left
   company: National Bank of Canada - Cloud Security Team
   job_title: Senior Cloud Security Adviser
-  dates: Present
+  dates: Mars 2022
   description: | # this will include new lines to allow paragraphs
     Design and Implemente Continuous Compliance assessment for AWS resources at the Organisation level using IaC
 
