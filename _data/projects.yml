@@ -4,11 +4,11 @@
   quote: >
     Swift, NodeJS, MongoDB, Docker, IBM Cloud (BlueMix)
   description: | # this will include new lines to allow paragraphs
-    Implement a microservice with NodeJS to interacte with MongoDB
+    Implement a microservice with NodeJS to interact with MongoDB
 
     Create MongoDB and NodeJS docker containers on the IBM Cloud (BlueMix)
 
-    Develop a Mobile iOS application with Swift to interacte with the REST API
+    Develop a Mobile iOS application with Swift to interact with the REST API
 - layout: left
   name: Web Application - Lone Wolf
   dates: 2016
@@ -17,7 +17,7 @@
   description: | # this will include new lines to allow paragraphs
     Implement Web Application based on the « Lone Wolf » book. Ref: http://www.scribd.com/doc/127964396/Loup-Solitaire-03-Les-Grottes-de-Kalte
 
-    Develop the backend RESTFULL API to interacte with MongoDB
+    Develop the backend RESTFULL API to interact with MongoDB
 
     Develop the frontend with Jade and AngularJS
 - layout: left
@@ -33,13 +33,13 @@
   quote: >
     Objective-C
   description: | # this will include new lines to allow paragraphs
-    iOS application helps users to take bussines cards picture and translate it to the phone contacts
+    iOS application helps users to take business cards picture and translate it to the phone contacts
 
     Convert picture to text using tesseract-ocr library
 
-    Uses regex to differenciate the different information taken from the bussines card
+    Uses regex to differentiate the different information taken from the business card
 
-    Was avalaible in AppStore: https://itunes.apple.com/ca/app/id1035422110
+    Was available in AppStore: https://itunes.apple.com/ca/app/id1035422110
 - layout: left
   name: Video Game plan editor on iPad
   dates: 2014
@@ -48,6 +48,6 @@
   description: | # this will include new lines to allow paragraphs
     Implement game plan editor with Objective-C and SpriteKit
 
-    Synchronize the edited plan to server to be avalaible for players
+    Synchronize the edited plan to server to be available for players
 
     Game backend developed with C++ and C# using PInvoke

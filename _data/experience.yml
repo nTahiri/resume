@@ -1,27 +1,27 @@
 - layout: left
-  company: Unity software - DevOps Infrastructre Developer
-  job_title: Senio Sowftware Developer
+  company: Unity software - DevOps Infrastructure Developer
+  job_title: Senior Software Developer
   dates: Present
   description: | # this will include new lines to allow paragraphs
     Design and develop modern IaC
 
-    Maintain already existing  Infrastructre in GCP and AWS
+    Maintain already existing  Infrastructure in GCP and AWS
 
-    Participate on different initialives related to exchange projects in GOLANG
+    Participate on different initiatives related to exchange projects in GOLANG
     
 - layout: left
   company: National Bank of Canada - Cloud Security Team
-  job_title: Senior Cloud Security Adviser
+  job_title: Seniorr Cloud Security Adviser
   dates: Mars 2022
   description: | # this will include new lines to allow paragraphs
     Design and Implemente Continuous Compliance assessment for AWS resources at the Organisation level using IaC
 
     Establish a Bank level Security Standard for AWS-EKS
 
-    Advise delievery teams to follow Security good practices in AWS
+    Advise delivery teams to follow Security good practices in AWS
 - layout: left
   company: National Bank of Canada - Banking as Service Team
-  job_title: Senior Adviser - Full Stack Golang Developer & Kubernetes (EKS)
+  job_title: Seniorr Adviser - Full Stack Golang Developer & Kubernetes (EKS)
   dates: May 2020
   description: | # this will include new lines to allow paragraphs
     Micro services Developer in Golang
@@ -30,12 +30,12 @@
 
     Integrate Tekton pipelines in the SDLC of the project via IAC with Terraform
 
-    Participate in the launching of distributed architecture of mircroservices and GitOps
+    Participate in the launching of distributed architecture of microservices and GitOps
 
     Ensure that the security parameters of the bank service is respected
 - layout: left
   company: National Bank of Canada - Digital Studio
-  job_title: Senior Adviser - DevOps Engineer in the Digital Studio- SME Jenkins and OpenShift
+  job_title: Seniorr Adviser - DevOps Engineer in the Digital Studio- SME Jenkins and OpenShift
   dates: June 2018
   description: | # this will include new lines to allow paragraphs
     Establish good DevOps work practices and culture with all developers (front and back end) of the digital studio, automatizing of CI/CD mircoservices in production
@@ -47,16 +47,16 @@
     Innovate to facilitate the development of software processes
 - layout: left
   company: National Bank of Canada - DevOps Squad
-  job_title: Senior Adviser - DevOps Engineer in DevOps Squad-SME Jenkins and Openshift
+  job_title: Seniorr Adviser - DevOps Engineer in DevOps Squad-SME Jenkins and Openshift
   dates: February 2017
   description: | # this will include new lines to allow paragraphs
     Implemented a shared library to atomize components CI/CD such as(  SBIP2, SBIE, SOA, WEALTH, PaymentHub, PayPro, IAMX, CCAIFORMS,EMORTGAGES)
 
     Provide support for all the tools DevOps uses at the bank ( Jenkins, Nexus, SonarQube, IQserver, Openshift, AppDynamics, EFK)
 
-    Produce and maintain SpringBoot and NodeJS docker images for deploied microservices with shell scripting tools and AppDynamics agents
+    Produce and maintain SpringBoot and NodeJS docker images for deployed microservices with shell scripting tools and AppDynamics agents
 
-    Support and educate developer teams on Agile methodologie.
+    Support and educate developer teams on Agile methodology.
 - layout: left
   company: Civil Protection (fire-fighter) Morocco
   job_title: Lieutenant in Civil Protection
