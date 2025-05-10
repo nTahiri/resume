@@ -3,11 +3,13 @@
   job_title: Senior Software Developer
   dates: Present
   description: | # this will include new lines to allow paragraphs
-    Design and develop modern IaC
+    Design and Develop Modern Infrastructure as Code (IaC).
 
-    Maintain already existing  Infrastructure in GCP and AWS
+    Maintain and enhance existing infrastructure in Google Cloud Platform (GCP) and Amazon Web Services (AWS).
 
-    Participate on different initiatives related to exchange projects in GOLANG
+    Participate in various initiatives related to exchange projects in Golang.
+
+    Monitor and identify bugs propose fix to Dev teams.
     
 - layout: left
   company: National Bank of Canada - Cloud Security Team
