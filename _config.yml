@@ -63,8 +63,8 @@ sass:
   style: compressed
 
 plugins:
-#  - jekyll-seo-tag
- - jekyll-include-cache
- - gemfile
+ - jekyll-seo-tag
+#  - jekyll-include-cache
+#  - gemfile
 
 theme: jekyll-theme-modernist
