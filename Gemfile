@@ -1,12 +1,13 @@
 source "https://rubygems.org"
 # gem 'bundle'
-gem 'faraday'
 # gem 'nokogiri'
 # gem 'rack', '~> 2.2.4'
 # gem 'rspec'
 # gem 'jekyll'
 
+gem 'faraday', '~> 2.7', '>= 2.7.11'
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
