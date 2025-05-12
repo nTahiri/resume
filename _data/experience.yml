@@ -3,24 +3,27 @@
   job_title: Senior Software Developer
   dates: Present
   description: | # this will include new lines to allow paragraphs
-    Design and Develop Modern Infrastructure as Code (IaC).
+   Design and Develop Modern Infrastructure as Code (IaC).
 
-    Maintain and enhance existing infrastructure in Google Cloud Platform (GCP) and Amazon Web Services (AWS).
+   Implement maintainable CICD for app and IaC components
+  
+   Maintain and enhance existing infrastructure in Google Cloud Platform (GCP) and Amazon Web Services (AWS) and propose solution for infra cost effiency.
+  
+   Participate in various initiatives related to exchange projects with Golang.
 
-    Participate in various initiatives related to exchange projects in Golang.
-
-    Monitor and identify bugs propose fix to Dev teams.
+   Monitor and identify bugs, propose fixes to Dev teams
     
 - layout: left
   company: National Bank of Canada - Cloud Security Team
   job_title: Seniorr Cloud Security Adviser
   dates: Mars 2022
   description: | # this will include new lines to allow paragraphs
-    Design and Implemente Continuous Compliance assessment for AWS resources at the Organisation level using IaC
+    Designed and Implemented a Continuous Compliance Assessment for AWS Resources at the Organization Level Utilizing Infrastructure as Code (IaC).
 
-    Establish a Bank level Security Standard for AWS-EKS
+    Developed and Implemented a Bank-Level Security Standard for AWS-EKS.
 
-    Advise delivery teams to follow Security good practices in AWS
+    Provided guidance to delivery teams on adhering to security best practices in AWS.
+  
 - layout: left
   company: National Bank of Canada - Banking as Service Team
   job_title: Seniorr Adviser - Full Stack Golang Developer & Kubernetes (EKS)
@@ -28,37 +31,39 @@
   description: | # this will include new lines to allow paragraphs
     Micro services Developer in Golang
 
-    Develop and maintain the pipelines for the building of infrastructures as well as deployment in AWS-EKS
+    Implemented microservices with Golang.
 
-    Integrate Tekton pipelines in the SDLC of the project via IAC with Terraform
+    Developed and maintained pipelines for infrastructure and deployment in AWS-EKS.
 
-    Participate in the launching of distributed architecture of microservices and GitOps
+    Integrated TektonCD pipelines in the SDLC via IAC with Terraform.
 
-    Ensure that the security parameters of the bank service is respected
+    Participated in the launching of a distributed microservices architecture and GitOps.
+
+    Ensured the bank's security requirements were met.
 - layout: left
   company: National Bank of Canada - Digital Studio
   job_title: Seniorr Adviser - DevOps Engineer in the Digital Studio- SME Jenkins and OpenShift
   dates: June 2018
   description: | # this will include new lines to allow paragraphs
-    Establish good DevOps work practices and culture with all developers (front and back end) of the digital studio, automatizing of CI/CD mircoservices in production
+    Established DevOps work practices and culture with developers, automating CI/CD for microservices in production.
+  
+    Ensured continued support for the digital studio.
 
-    Ensure continued support for the digital studio
+    Interacted with infrastructure, security, operations, and development teams.
 
-    Interaction with all teams involved (infra, security, ops and dev) to activate and unblock software requirements specifications
-
-    Innovate to facilitate the development of software processes
+    Innovated to facilitate software development processes.
 - layout: left
   company: National Bank of Canada - DevOps Squad
   job_title: Seniorr Adviser - DevOps Engineer in DevOps Squad-SME Jenkins and Openshift
   dates: February 2017
   description: | # this will include new lines to allow paragraphs
-    Implemented a shared library to atomize components CI/CD such as(  SBIP2, SBIE, SOA, WEALTH, PaymentHub, PayPro, IAMX, CCAIFORMS,EMORTGAGES)
+    Implemented a shared library to automate CI/CD components such as(  SBIP2, SBIE, SOA, WEALTH, PaymentHub, PayPro, IAMX, CCAIFORMS,EMORTGAGES)
 
-    Provide support for all the tools DevOps uses at the bank ( Jenkins, Nexus, SonarQube, IQserver, Openshift, AppDynamics, EFK)
+    Provided support for DevOps tools: Jenkins, Nexus, SonarQube, IQserver, Openshift, AppDynamics, EFK
 
-    Produce and maintain SpringBoot and NodeJS docker images for deployed microservices with shell scripting tools and AppDynamics agents
+    Produced and maintained SpringBoot and NodeJS Docker images with shell scripting and AppDynamics agents
 
-    Support and educate developer teams on Agile methodology.
+    Supported and educated developer teams on Agile methodologies
 - layout: left
   company: Civil Protection (fire-fighter) Morocco
   job_title: Lieutenant in Civil Protection
